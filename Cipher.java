@@ -1,12 +1,6 @@
 import java.util.*;
 import java.io.*;
 
-// Tisya Bhatia
-// 1.22.2025
-// CSE 123
-// P0: Ciphers
-// TA: Shreya Pandey
-
 // Represents a classical cipher that is able to encrypt a plaintext into a ciphertext, and
 // decrypt a ciphertext into a plaintext. Also capable of encrypting and decrypting entire files
 public abstract class Cipher { 

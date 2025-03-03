@@ -1,11 +1,5 @@
 import java.util.*;
 
-// Tisya Bhatia
-// 1.22.2025
-// CSE 123
-// P0: Ciphers
-// TA: Shreya Pandey
-
 /* This class enables the user to use a multiple ciphers on the same input, with the goal of a 
  * stronger encryption than just one cipher. The user can incorporate any Cipher, including
  * substitution caesar shift, and caesar key ciphers.

@@ -1,11 +1,5 @@
 import java.util.*;
 
-// Tisya Bhatia
-// 1.22.2025
-// CSE 123
-// P0: Ciphers
-// TA: Shreya Pandey
-
 /* This class enables users to use a caesar shift cipher to encrypt a word or phrase. The caesar
  * shift cipher shifts all the letters in the alphabet a certain number of times to get a letter
  * to correspond to another different letter. Users can use the caesar cipher to encrypt and 

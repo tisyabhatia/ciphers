@@ -1,12 +1,6 @@
 import java.util.*;
 import java.io.*;
 
-// Tisya Bhatia
-// 1.22.2025
-// CSE 123
-// P0: Ciphers
-// TA: Shreya Pandey
-
 public class Client {
     public static final Cipher CHOSEN_CIPHER = new Substitution("ABCDEFGHIJKLMNOPQRSTUVWXYZ");
     // public static final Cipher CHOSEN_CIPHER = new MultiCipher(List.of(

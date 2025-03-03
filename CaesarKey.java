@@ -1,11 +1,5 @@
 import java.util.*;
 
-// Tisya Bhatia
-// 1.22.2025
-// CSE 123
-// P0: Ciphers
-// TA: Shreya Pandey
-
 /* This class enables the user to use a caesar key cipher, which has one word/ key corresponding
  * to the first few letters of the alphabet, and the rest are corresponding to the remaining 
  * letters. The user can encrypt and decrypt words using the caesar key cipher. 

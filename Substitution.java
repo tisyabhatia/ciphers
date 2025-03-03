@@ -1,11 +1,5 @@
 import java.util.*;
 
-// Tisya Bhatia
-// 1.22.2025
-// CSE 123
-// P0: Ciphers
-// TA: Shreya Pandey
-
 /* This class enables the user to use a substitution cipher, which has one letter correspond
  * to a different letter, with the goal of substituting each letter in a word with its 
  * corresponding letter. Users can encrypt and decrypt words using the substitution cipher.
